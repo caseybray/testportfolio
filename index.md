@@ -4,5 +4,5 @@
 ## Projects One
 
 
-[Project One](/samplepage)
-<img src="">
+[Project One](/sample_pageone)
+<img src="images/sample_abc.jpg?raw=true">
